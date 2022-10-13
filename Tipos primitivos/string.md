@@ -1,4 +1,4 @@
-## String
+# String
 
 ```js
 || Tudo que for colocado entre aspas, é considerado uma string.
@@ -10,7 +10,7 @@ const senha = "senhaSuperSegura!";
 const StringDeNumeros = "56754";
 ```
 
-# Concatenação(+)
+## Concatenação(+)
 
 ```js
 |Soma de strings

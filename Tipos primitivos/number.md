@@ -1,4 +1,4 @@
-## Number
+# Number
 
 ```js
 const meuNumero = 3
