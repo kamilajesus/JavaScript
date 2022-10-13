@@ -8,7 +8,9 @@ const segundoNumero = 10;
 
 console.log(primeiroNumero === segundoNumero); // false
 
+
 || Há diferenciação de maiúsculas e minúsculas
+
 const texto1 = "Alura";
 const texto2 = "alura":
 
