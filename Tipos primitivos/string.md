@@ -13,7 +13,7 @@ const StringDeNumeros = "56754";
 ## Concatenação(+)
 
 ```js
-|Soma de strings
+|| Soma de strings
 
 const citacao = "Meu nome é ";
 const meuNome = "Kamila";

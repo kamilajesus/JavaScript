@@ -24,8 +24,8 @@ console.log(novaOperacao) //console: 0.30303030303030304
 
 ## NaN
 ```js
-| Not a Number
-|Ele é retornado quando uma operação matemática falha ou quando uma função tenta transformar uma string em inteiro.
+|| Not a Number
+|| Ele é retornado quando uma operação matemática falha ou quando uma função tenta transformar uma string em inteiro.
 
 const alura = "Alura";
 console.log(alura * primeiroNumero) // console: NaN
