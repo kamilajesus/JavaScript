@@ -15,9 +15,9 @@ console.log(area) // 35
 
 ## let
 
-| Let tem escopo de bloco.
-| Um bloco é uma porção de código cercado por {}. Um bloco vive dentro dessas chaves. Tudo o que estiver cercado por chaves é um bloco.
-|Assim, uma variável declarada com let em um bloco estará disponível apenas dentro daquele bloco.
+- Let tem escopo de bloco.
+- Um bloco é uma porção de código cercado por {}. Um bloco vive dentro dessas chaves. Tudo o que estiver cercado por chaves é um bloco.
+- Assim, uma variável declarada com let em um bloco estará disponível apenas dentro daquele bloco.
 
 ```js
 let forma = "retângulo"
@@ -37,9 +37,9 @@ let area;
 
 ## Const
 
-| variáveis declaradas com const mantêm valores constantes. 
-| Assim como as declarações de let, as declarações de const somente podem ser acessadas dentro do bloco onde foram declaradas.
-| Coonst sempre tem que iniciar com um valor.
+- variáveis declaradas com const mantêm valores constantes. 
+- Assim como as declarações de let, as declarações de const somente podem ser acessadas dentro do bloco onde foram declaradas.
+- Const sempre tem que iniciar com um valor.
 
 ```js
 const forma = "quadrado"
