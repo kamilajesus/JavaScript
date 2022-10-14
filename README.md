@@ -10,3 +10,5 @@ Anotações pessoais sobre JavaScript.
 - [Truthy e Falsy](https://github.com/kamilajesus/JavaScript/blob/main/Declarando%20vari%C3%A1veis/Truthy%20e%20falsy.md)
 - [Conversão de tipos](https://github.com/kamilajesus/JavaScript/blob/main/Declarando%20vari%C3%A1veis/convers%C3%A3o%20de%20tipos.md)
 - [Tipos de erro](https://github.com/kamilajesus/JavaScript/blob/main/tipos%20de%20erro.md)
+- [Operadores de comparação] (https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Operadores%20de%20compara%C3%A7%C3%A3o.md)
+_ []
