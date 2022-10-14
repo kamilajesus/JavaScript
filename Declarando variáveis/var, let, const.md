@@ -1,4 +1,4 @@
-## Var
+## var
 
 - Declarações com var tem escopo global ou escopo de função/local.
 - O escopo é global quando uma variável var é declarada fora de uma função. Isso significa que qualquer variável que seja declarada com var fora de um bloco de função pode ser utilizada na janela inteira.
@@ -35,7 +35,7 @@ let area;
 
 ```
 
-## Const
+## const
 
 - variáveis declaradas com const mantêm valores constantes. 
 - Assim como as declarações de let, as declarações de const somente podem ser acessadas dentro do bloco onde foram declaradas.
