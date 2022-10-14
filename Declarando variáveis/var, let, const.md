@@ -1,8 +1,8 @@
 ## Var
 
-| Declarações com var tem escopo global ou escopo de função/local.
-| O escopo é global quando uma variável var é declarada fora de uma função. Isso significa que qualquer variável que seja declarada com var fora de um bloco de função pode ser utilizada na janela inteira.
-| Var tem escopo de função quando é declarado dentro de uma função. Isso significa que ele está disponível e pode ser acessado somente de dentro daquela função.
+- Declarações com var tem escopo global ou escopo de função/local.
+- O escopo é global quando uma variável var é declarada fora de uma função. Isso significa que qualquer variável que seja declarada com var fora de um bloco de função pode ser utilizada na janela inteira.
+- Var tem escopo de função quando é declarado dentro de uma função. Isso significa que ele está disponível e pode ser acessado somente de dentro daquela função.
 
 ```js
 var altura = 5;
