@@ -12,4 +12,4 @@ Anotações pessoais sobre JavaScript.
 - [Tipos de erro](https://github.com/kamilajesus/JavaScript/blob/main/tipos%20de%20erro.md)
 - [Operadores de comparação](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Operadores%20de%20compara%C3%A7%C3%A3o.md)
 - [Operador ternário](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Operador%20Tern%C3%A1rio.md)
-- [Template literal]()
+- [Template literal](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Template%20literal.md)
