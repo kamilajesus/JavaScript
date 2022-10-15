@@ -14,3 +14,4 @@ Anotações pessoais sobre JavaScript.
 - [Operador ternário](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Operador%20Tern%C3%A1rio.md)
 - [Template literal](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Template%20literal.md)
 - [Funções](https://github.com/kamilajesus/JavaScript/blob/main/Fun%C3%A7%C3%B5es/Fun%C3%A7%C3%B5es.md)
+- [Argumentos e Parâmetros](https://github.com/kamilajesus/JavaScript/blob/main/Fun%C3%A7%C3%B5es/Argumentos%20e%20par%C3%A2metros.md)
