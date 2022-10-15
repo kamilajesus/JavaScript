@@ -13,3 +13,4 @@ Anotações pessoais sobre JavaScript.
 - [Operadores de comparação](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Operadores%20de%20compara%C3%A7%C3%A3o.md)
 - [Operador ternário](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Operador%20Tern%C3%A1rio.md)
 - [Template literal](https://github.com/kamilajesus/JavaScript/blob/main/Operadores/Template%20literal.md)
+- [Funções](https://github.com/kamilajesus/JavaScript/blob/main/Fun%C3%A7%C3%B5es/Fun%C3%A7%C3%B5es.md)
