@@ -1,14 +1,15 @@
 # Funções
 
 - Funções são blocos de construção fundamentais em JavaScript. Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor. Para usar uma função, você deve definir-la em algum lugar no escopo do qual você chamá-la.
+
 ```js
 function multiplicar(numero) {
   return numero * numero;
 }
 
-multiplicar(5) // 25
-multiplicar(7) // 49
-multiplicar(234) //54756
+console.log(multiplicar(5))// 25
+console.log(multiplicar(7)) // 49 
+console.log(multiplicar(234)) //54756
 ```
 
 ```js
@@ -17,5 +18,5 @@ multiplicar(234) //54756
 function soma(){
   return 2 + 2 
 }
-soma()// 4
+console.log(soma())// 4
 ```
