@@ -81,3 +81,36 @@ let listaDeNotasEAlunos = [alunos, mediasDosAlunos]
 console.log(`${listaDeNotasEAlunos[0][0]}, sua media é ${listaDeNotasEAlunos[1][0]}`)
 //               [posição da array][posição dentro da array]
 ```
+
+# Filtrando elementos
+
+```js
+const nomes = ['Ana','Marcos','Maria', 'Mauro']
+const notas = [7, 4.5, 8, 7.5]
+
+const reprovados = nomes.filter((_, indice) => notas[indice] < 5)
+
+console.log(`reprovados: ${reprovados}`) // Marcos
+```
+
+# Somando com Reduce
+
+```js
+const salaJS = [7, 8, 8, 7, 10, 6.5, 4, 10, 7]
+const salaJava = [6, 5, 8, 9, 5, 6]
+const salaPython = [7, 3.5, 8, 9.5]
+
+function mediaSala(notasDaSala) {
+    return notasDaSala.reduce((acum, atual) => atual + acum, 0) / notasDaSala.length
+}
+
+console.log(`Média da sala JavaScript ${mediaSala(salaJS)}`)
+console.log(`Média da sala Java ${mediaSala(salaJava)}`)
+console.log(`Média da sala Python ${mediaSala(salaPython)}`)
+
+const notas = [10, 6.5, 8, 7]
+
+const media = notas.reduce((acum,atual) => atual + acum,0) / notas.length
+
+console.log(media)
+```
